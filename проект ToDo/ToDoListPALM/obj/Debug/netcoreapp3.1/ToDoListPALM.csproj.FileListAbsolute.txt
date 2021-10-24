@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\проект ToDo\ToDoListPALM\obj\Debug\netcoreapp3.1\ToDoListPALM.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\проект ToDo\ToDoListPALM\obj\Debug\netcoreapp3.1\ToDoListPALM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\проект ToDo\ToDoListPALM\obj\Debug\netcoreapp3.1\ToDoListPALM.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\проект ToDo\ToDoListPALM\obj\Debug\netcoreapp3.1\ToDoListPALM.AssemblyInfo.cs
+C:\Users\hp\source\repos\проект ToDo\ToDoListPALM\obj\Debug\netcoreapp3.1\ToDoListPALM.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\проект ToDo\ToDoListPALM\obj\Debug\netcoreapp3.1\ToDoListPALM.MvcApplicationPartsAssemblyInfo.cache

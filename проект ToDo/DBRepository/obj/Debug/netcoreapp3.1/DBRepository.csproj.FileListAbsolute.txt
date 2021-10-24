@@ -1,0 +1,5 @@
+C:\Users\hp\source\repos\проект ToDo\DBRepository\obj\Debug\netcoreapp3.1\DBRepository.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\проект ToDo\DBRepository\obj\Debug\netcoreapp3.1\DBRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\проект ToDo\DBRepository\obj\Debug\netcoreapp3.1\DBRepository.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\проект ToDo\DBRepository\obj\Debug\netcoreapp3.1\DBRepository.AssemblyInfo.cs
+C:\Users\hp\source\repos\проект ToDo\DBRepository\obj\Debug\netcoreapp3.1\DBRepository.csproj.CoreCompileInputs.cache
